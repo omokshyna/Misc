@@ -1,0 +1,15 @@
+"Java is C++ without the guns, knives, and clubs" James Gosling, co-inventor of Java
+
+"Always program as if the person who will be maintaining your program is a violent psychopath that knows where you live." Martin Golding
+
+
+
+A man flying in a hot air balloon suddenly realizes he is lost. He reduces height and spots a man down below. He lowers the balloon further and shouts to get directions, "Excuse me, can you tell me where I am?"
+The man below says: "Yes. You are in a hot air balloon, hovering 30 feet above this field."
+"You must work in Information Technology," says the balloonist.
+"I do" replies the man. "How did you know?"
+"Well," says the balloonist, "everything you have told me is technically correct, but It is of no use to anyone."
+The man below replies, "You must work in management."
+"I do," replies the balloonist, "But how would you know?"*
+"Well", says the man, "you don’t know where you are or where you’re going, but you expect me to be able to help. You’re in the same position you were before we met, but now it’s my fault."
+

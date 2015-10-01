@@ -1,0 +1,4 @@
+AuthFilter.class
+SecureServlet.class
+LoginServlet.class
+RegisterServlet.class

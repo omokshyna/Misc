@@ -1,0 +1,37 @@
+/*
+ * 2_7.сpp
+ * 
+ * Copyright 2015 MEG <meg@r2d2>
+ * 
+ * 7. Given 2d array size N x M, filled
+ * with random numbers in range of 0 to 100. Perform cyclic shift of the array 
+ * on defined number of columns. 
+ * 
+ * 
+ */
+
+
+#include "2d_arrays.h"
+using namespace std;
+
+int main(int argc, char **argv)
+{
+	const int rows = 5;
+	const int cols = 10;
+	int arr[rows][cols];
+	int dir;
+	int shift;
+	
+	cout << "Enter the direction of shift.\n-1 - left; 1 - right.\n");
+	cin >> dir;
+	cout << "Enter the number of columns for shift.\n");
+	cin >> shift;
+	
+	
+	
+	
+		
+	
+	return 0;
+}
+

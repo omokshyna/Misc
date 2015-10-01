@@ -1,0 +1,16 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="3.0">
+    <display-name>Test app</display-name>
+
+
+    <servlet-mapping>
+        <servlet-name>default</servlet-name>
+        <url-pattern>*.js</url-pattern>
+        <url-pattern>*.css</url-pattern>
+        <url-pattern>*.ico</url-pattern>
+        <url-pattern>*.png</url-pattern>
+        <url-pattern>*.jpg</url-pattern>
+        <url-pattern>*.htc</url-pattern>
+        <url-pattern>*.gif</url-pattern>
+    </servlet-mapping>
+
+</web-app>
